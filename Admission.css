@@ -80,7 +80,7 @@
 }
 .main h2{
     text-align: center;
-    background-color: #003263;
+    background-color: rgb(0, 0, 0, 0.5);
     margin: 0px;
     width: 100%;
     padding-top: 20px;
@@ -99,7 +99,7 @@ input{
     text-align: center;
 }
 .submit-button{
-    background-color: red;
+    background-color: black;
     border-radius: 10px;
     color: white;
     border: 0px;
